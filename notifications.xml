@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="izhangzhihao.rainbow.brackets" displayType="NONE" />
-    <notification groupId="Python Scientific View Advertiser" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
