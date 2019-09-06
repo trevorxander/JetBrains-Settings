@@ -1,0 +1,37 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift meta alt space" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+</keymap>
