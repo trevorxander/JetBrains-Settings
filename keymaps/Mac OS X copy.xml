@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -15,6 +16,13 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -28,6 +36,17 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Push" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
