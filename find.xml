@@ -17,5 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
