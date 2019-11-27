@@ -5,13 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
@@ -21,5 +21,6 @@
     <mask>.m</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
   </component>
 </application>
