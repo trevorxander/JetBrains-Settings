@@ -17,7 +17,7 @@
     <mask>*.hbs</mask>
     <mask>.m</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
   </component>
 </application>
