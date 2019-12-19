@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*s.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -23,5 +24,6 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*s.html</mask>
   </component>
 </application>
