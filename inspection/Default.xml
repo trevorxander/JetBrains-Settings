@@ -57,6 +57,9 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="bs4.element.PageElement.__getitem__" />
+        <option value="tuple.set_title" />
+        <option value="tuple.tick_params" />
+        <option value="tuple.get_xticklabels" />
       </list>
     </option>
   </inspection_tool>
