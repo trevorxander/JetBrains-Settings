@@ -14,7 +14,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.scss</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
