@@ -5,6 +5,7 @@
       <mapping ext="bson" type="JSON" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sofun_scrape" type="PLAIN_TEXT" />
       <mapping ext="pik" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
