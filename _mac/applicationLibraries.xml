@@ -1,0 +1,241 @@
+<application>
+  <component name="libraryTable">
+    <library name="9-cube-grid" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_9-cube-grid.min.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_9-cube-grid.min.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-clipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-clipboard.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-clipboard.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-ui-router" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-ui-router.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-ui-router.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ckeditor" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ckeditor.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ckeditor.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="d3" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_d3.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_d3.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font-awesome" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font-awesome.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font-awesome.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font1.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font1.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font2.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font2.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="icon" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_icon.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_icon.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jasny-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jasny-bootstrap.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jasny-bootstrap.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jasny-bootstrap.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jasny-bootstrap.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jquery.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jquery.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery.csv-0.71" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jquery.csv-0.71.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jquery.csv-0.71.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jspdf.debug" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jspdf.debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_jspdf.debug.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_moment.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_moment.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="moment-timezone-with-data" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_moment-timezone-with-data.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_moment-timezone-with-data.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="sha256" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_sha256.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_sha256.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="toastr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_toastr.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_toastr.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_toastr.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_toastr.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="topojson" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_topojson.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_topojson.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="underscore.string" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_underscore.string.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_underscore.string.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
