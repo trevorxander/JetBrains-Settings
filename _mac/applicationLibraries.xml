@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="angular-animate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-animate.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-animate.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="angular-clipboard" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -30,6 +41,61 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-clipboard.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-jwt" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-jwt.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-jwt.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-load" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-load.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-load.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-lock" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-lock.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-lock.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-sanitize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-sanitize.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-sanitize.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-touch" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-touch.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-touch.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -54,6 +120,19 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_bootstrap.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="chartist" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_chartist.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_chartist.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_chartist.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_chartist.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -109,6 +188,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_font2.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="histogram" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_histogram.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_histogram.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -169,6 +259,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="lock" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_lock.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_lock.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="moment" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -188,6 +289,63 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_moment-timezone-with-data.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ngDialog" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ngDialog-theme-plain" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog-theme-plain.min.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ngDialog-theme-plain.min.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="plotly" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_plotly.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_plotly.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="queue.v1" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_queue.v1.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_queue.v1.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="regression" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_regression.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_regression.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -223,6 +381,28 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_topojson.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ui-bootstrap-tpls" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ui-bootstrap-tpls.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ui-bootstrap-tpls.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="underscore" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_underscore-min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_underscore-min.js" />
       </CLASSES>
       <SOURCES />
     </library>
