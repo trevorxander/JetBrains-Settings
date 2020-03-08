@@ -272,10 +272,12 @@
     <library name="lock" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.auth0.com_js_lock_11.22.4_lock.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_lock.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.auth0.com_js_lock_11.22.4_lock.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_lock.min.js" />
       </CLASSES>
       <SOURCES />
