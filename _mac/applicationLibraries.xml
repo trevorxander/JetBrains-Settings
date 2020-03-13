@@ -145,10 +145,12 @@
     <library name="ckeditor" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ckeditor.com_4.6.2_basic_ckeditor.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ckeditor.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ckeditor.com_4.6.2_basic_ckeditor.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_ckeditor.js" />
       </CLASSES>
       <SOURCES />
