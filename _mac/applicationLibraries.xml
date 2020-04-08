@@ -48,6 +48,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="angular-cookie" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-cookie.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-cookie.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-cookies" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-cookies.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_angular-cookies.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="angular-jwt" type="javaScript">
       <properties>
         <sourceFilesUrls>
