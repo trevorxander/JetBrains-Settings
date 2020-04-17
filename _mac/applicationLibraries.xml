@@ -199,6 +199,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="debug.addIndicators" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_ScrollMagic_2.0.7_plugins_debug.addIndicators.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_ScrollMagic_2.0.7_plugins_debug.addIndicators.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="ev-emitter" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -483,6 +494,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_regression.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ScrollMagic" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_ScrollMagic_2.0.7_ScrollMagic.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_ScrollMagic_2.0.7_ScrollMagic.js" />
       </CLASSES>
       <SOURCES />
     </library>
