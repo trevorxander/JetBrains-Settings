@@ -78,6 +78,11 @@
         <option value="tuple.set_title" />
         <option value="tuple.tick_params" />
         <option value="tuple.get_xticklabels" />
+        <option value="snake_mail.snake_task.SnakeTask.DB_NAME" />
+        <option value="snake_mail.snake_task.SnakeTask.CONNECTION_STRING" />
+        <option value="snake_mail.snake_task.SnakeTask.mongo_client" />
+        <option value="snake_mail.snake_list.SnakeList.mongo_client" />
+        <option value="snake_mail.snake_list.SnakeList.DB_NAME" />
       </list>
     </option>
   </inspection_tool>
