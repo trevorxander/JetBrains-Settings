@@ -6,6 +6,7 @@
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="req_template" type="PLAIN_TEXT" />
       <mapping ext="sofun_scrape" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
