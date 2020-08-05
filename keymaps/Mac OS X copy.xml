@@ -68,6 +68,10 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -82,9 +86,7 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
-  <action id="ViewBreakpoints">
-    <keyboard-shortcut first-keystroke="shift meta b" />
-  </action>
+  <action id="ViewBreakpoints" />
   <action id="ViewSource" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift meta comma" />
