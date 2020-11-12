@@ -5,7 +5,7 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_FAMILY" value="Menlo" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -15,6 +15,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" nodeAutoDelay="1000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern pattern="\b(todo\b.+@\w+)\b.*" />
