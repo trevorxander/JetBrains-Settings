@@ -396,6 +396,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jspdf" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jspdf_1.5.3_jspdf.debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jspdf_1.5.3_jspdf.debug.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jspdf.debug" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -499,6 +510,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="muuri" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_muuri@0.8.0_dist_muuri.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_muuri@0.8.0_dist_muuri.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="ngDialog" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -591,6 +613,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="tiny-slider" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.2_min_tiny-slider.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.3_tiny-slider.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.2_min_tiny-slider.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.3_tiny-slider.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="toastr" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -667,6 +702,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_utils.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="web-animations-js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_web-animations-js@2.3.2_web-animations.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_web-animations-js@2.3.2_web-animations.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
