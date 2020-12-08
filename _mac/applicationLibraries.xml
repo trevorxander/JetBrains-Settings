@@ -435,10 +435,14 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v1.12.0_mapbox-gl.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v1.12.0_mapbox-gl.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.js" />
       </CLASSES>
       <SOURCES />
     </library>
