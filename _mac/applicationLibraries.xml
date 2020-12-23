@@ -451,10 +451,12 @@
     <library name="mapbox-gl-draw" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.js" />
       </CLASSES>
       <SOURCES />
@@ -462,10 +464,12 @@
     <library name="mapbox-gl-geocoder" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.min.js" />
       </CLASSES>
       <SOURCES />
