@@ -7,10 +7,11 @@
   </option>
   <option name="RIGHT_MARGIN" value="150" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <option name="SOFT_MARGINS" value="100" />
   <Python>
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
 </code_scheme>
