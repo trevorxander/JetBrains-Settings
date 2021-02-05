@@ -19,7 +19,7 @@
     <mask>*py</mask>
     <mask>property*csv</mask>
     <mask>*</mask>
-    <mask>*.csv</mask>
     <mask>*.py</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
