@@ -89,6 +89,6 @@
   <action id="ViewBreakpoints" />
   <action id="ViewSource" />
   <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="shift meta less" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
 </keymap>
