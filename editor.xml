@@ -35,7 +35,4 @@
       <pattern index="2" />
     </filter>
   </component>
-  <component name="XmlEditorOptions">
-    <option name="automaticallyInsertClosingTag" value="false" />
-  </component>
 </application>
