@@ -2,7 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="AngularJS Component.js" reformat="true" live-template-enabled="true" />
-      <template name="AngularJs Controller.js" reformat="true" live-template-enabled="true" />
+      <template name="AngularJs Page Controller.js" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
