@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="env-bak" type="PLAIN_TEXT" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
+      <mapping pattern="main.yml" type="YAML" />
+      <mapping pattern="main.yaml" type="YAML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
