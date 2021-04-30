@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -19,7 +20,7 @@
     <mask>*py</mask>
     <mask>property*csv</mask>
     <mask>*</mask>
-    <mask>*.py</mask>
     <mask>*.csv</mask>
+    <mask>*.py</mask>
   </component>
 </application>
