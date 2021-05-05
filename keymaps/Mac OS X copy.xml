@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="GotoAction" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
@@ -62,6 +65,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
@@ -78,6 +84,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
