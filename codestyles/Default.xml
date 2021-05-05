@@ -11,7 +11,13 @@
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <option name="SOFT_MARGINS" value="100" />
   <Python>
+    <option name="BLANK_LINE_AT_FILE_END" value="false" />
+    <option name="DICT_WRAPPING" value="5" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    <option name="USE_CONTINUATION_INDENT_FOR_COLLECTION_AND_COMPREHENSIONS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+    <option name="FROM_IMPORT_WRAPPING" value="5" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="120" />
