@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a9721923-0b46-4625-9411-026c150e6d30" name="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key">
-        <fileTransfer accessType="SFTP" host="dev-veraset000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
+        <fileTransfer rootFolder="/home/dm" accessType="SFTP" host="dev-veraset000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
-      <webServer id="6a9087ab-4bfe-4955-8f3d-7394c9952841" name="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key">
+      <webServer id="68a00a9b-a6e0-45d0-91bb-6f6d582cfd4f" name="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key">
         <fileTransfer accessType="SFTP" host="dev-veraset000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
     </option>
