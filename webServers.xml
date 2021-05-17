@@ -1,11 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a9721923-0b46-4625-9411-026c150e6d30" name="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key">
-        <fileTransfer rootFolder="/home/dm" accessType="SFTP" host="dev-veraset000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
+      <webServer id="3fead0c6-4851-4c14-a2f9-7c203b3275c1" name="Kingsport Prod">
+        <fileTransfer rootFolder="/home/dmscripts" accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
       <webServer id="68a00a9b-a6e0-45d0-91bb-6f6d582cfd4f" name="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key">
-        <fileTransfer accessType="SFTP" host="dev-veraset000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dm@dev-veraset000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
+        <fileTransfer accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
     </option>
   </component>
