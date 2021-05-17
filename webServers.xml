@@ -17,7 +17,7 @@
         <fileTransfer accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
       <webServer id="31190eb8-875a-4816-9359-c38734e12115" name="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key">
-        <fileTransfer accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
+        <fileTransfer rootFolder="/home/dmscripts" accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
     </option>
   </component>
