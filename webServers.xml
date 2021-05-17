@@ -13,7 +13,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="82f626e3-c838-469a-b4cc-41d5e51ab56e" name="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key">
+      <webServer id="82f626e3-c838-469a-b4cc-41d5e51ab56e" name="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" url="http://prod-api000.us-west-2.internal.deepmacro.net">
         <fileTransfer accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
       </webServer>
     </option>
