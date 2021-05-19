@@ -13,7 +13,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.scss</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*py</mask>
@@ -21,5 +20,6 @@
     <mask>*</mask>
     <mask>*.csv</mask>
     <mask>*.py</mask>
+    <mask>*.css</mask>
   </component>
 </application>
