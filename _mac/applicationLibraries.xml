@@ -234,6 +234,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="es6-promise-pool" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_es6-promise-pool.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_public.deepmacro.com_loadings_es6-promise-pool.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="ev-emitter" type="javaScript">
       <properties>
         <sourceFilesUrls>
