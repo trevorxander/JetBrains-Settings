@@ -81,6 +81,9 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
