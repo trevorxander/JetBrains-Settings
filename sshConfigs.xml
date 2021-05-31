@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="prod-api000.us-west-2.internal.deepmacro.net" id="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="dmscripts" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="prod-api000.us-west-2.internal.deepmacro.net" id="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="dmscripts" />
     </configs>
   </component>
 </application>
