@@ -1,0 +1,6 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="enabled" value="true" />
+    <option name="server" value="https://txander.jetbrains.space" />
+  </component>
+</application>

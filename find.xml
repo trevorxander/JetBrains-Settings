@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.xml</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*py</mask>
+    <mask>property*csv</mask>
+    <mask>*</mask>
+    <mask>*.csv</mask>
+    <mask>*.py</mask>
+    <mask>*.css</mask>
+  </component>
+</application>
