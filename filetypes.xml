@@ -6,8 +6,8 @@
       <mapping pattern=".ansible_vault" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
