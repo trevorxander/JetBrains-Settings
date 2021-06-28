@@ -449,15 +449,11 @@
     <library name="mapbox-gl" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v1.12.0_mapbox-gl.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.css" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v1.12.0_mapbox-gl.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.css" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v2.0.0_mapbox-gl.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -465,12 +461,10 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.css" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.css" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-draw_v1.2.0_mapbox-gl-draw.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -478,12 +472,10 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.css" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.css" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_plugins_mapbox-gl-geocoder_v4.5.1_mapbox-gl-geocoder.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -654,6 +646,47 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.2_min_tiny-slider.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tiny-slider_2.9.3_tiny-slider.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tippy.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective-extreme.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective-subtle.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale-extreme.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale-subtle.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away-extreme.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away-subtle.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward-extreme.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward-subtle.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_light-border.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_light.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_material.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_translucent.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective-extreme.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective-subtle.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_perspective.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale-extreme.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale-subtle.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_scale.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away-extreme.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away-subtle.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-away.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward-extreme.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward-subtle.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_animations_shift-toward.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_light-border.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_light.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_material.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tippy.js@6_themes_translucent.css" />
       </CLASSES>
       <SOURCES />
     </library>
