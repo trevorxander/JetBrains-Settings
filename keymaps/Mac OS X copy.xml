@@ -49,6 +49,9 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="JavaScript.Debugger.ReloadInBrowser">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="JupyterInsertCodeCellToTheEndAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
