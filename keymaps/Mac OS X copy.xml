@@ -49,9 +49,6 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
-  <action id="JavaScript.Debugger.ReloadInBrowser">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
   <action id="JupyterInsertCodeCellToTheEndAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
@@ -64,6 +61,9 @@
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="PreviousWindow" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -73,6 +73,9 @@
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -89,6 +92,9 @@
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="StateWidgetRerunAction">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta 1" />
