@@ -14,7 +14,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="16">
+        <list size="17">
           <item index="0" class="java.lang.String" itemvalue="ng-repeat" />
           <item index="1" class="java.lang.String" itemvalue="ng-repeat-start" />
           <item index="2" class="java.lang.String" itemvalue="ng-repeat-end" />
@@ -31,6 +31,7 @@
           <item index="13" class="java.lang.String" itemvalue="ng-controller" />
           <item index="14" class="java.lang.String" itemvalue="tooltip" />
           <item index="15" class="java.lang.String" itemvalue="ng-hide" />
+          <item index="16" class="java.lang.String" itemvalue="tg-controller" />
         </list>
       </value>
     </option>
