@@ -1,4 +1,16 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
@@ -21,6 +33,8 @@
     <keyboard-shortcut first-keystroke="shift meta alt space" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
@@ -36,6 +50,9 @@
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
