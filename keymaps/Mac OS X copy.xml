@@ -86,7 +86,7 @@
   <action id="OpenElementInNewWindow" />
   <action id="PreviousWindow" />
   <action id="Refresh">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -99,7 +99,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="Rerun">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -118,7 +121,7 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="StateWidgetRerunAction">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta 1" />
