@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+<keymap version="1" name="TxCustom" parent="Mac OS X">
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
