@@ -9,11 +9,6 @@
     <option name="AUTOREPARSE_DELAY" value="500" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Menlo" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
