@@ -12,6 +12,7 @@
   <option name="SOFT_MARGINS" value="100" />
   <JSCodeStyleSettings version="0">
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="FALSE" />
   </JSCodeStyleSettings>
   <Python>
     <option name="BLANK_LINE_AT_FILE_END" value="false" />
