@@ -10,6 +10,9 @@
   <option name="RIGHT_MARGIN" value="150" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <option name="SOFT_MARGINS" value="100" />
+  <JSCodeStyleSettings version="0">
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+  </JSCodeStyleSettings>
   <Python>
     <option name="BLANK_LINE_AT_FILE_END" value="false" />
     <option name="DICT_WRAPPING" value="5" />
