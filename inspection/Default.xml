@@ -45,7 +45,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="21">
+        <list size="24">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -67,6 +67,9 @@
           <item index="18" class="java.lang.String" itemvalue="major-drivers" />
           <item index="19" class="java.lang.String" itemvalue="quadrant-chart" />
           <item index="20" class="java.lang.String" itemvalue="state-change-animated" />
+          <item index="21" class="java.lang.String" itemvalue="team-slide" />
+          <item index="22" class="java.lang.String" itemvalue="podcast-slide" />
+          <item index="23" class="java.lang.String" itemvalue="real-estate-slide" />
         </list>
       </value>
     </option>
