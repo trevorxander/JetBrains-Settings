@@ -8,6 +8,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev-scan000.us-east-1.internal.deepmacro.net" id="c1567b81-d396-495a-ab00-b73441711edd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="dev-scan000.us-east-1.internal.deepmacro.net" nameFormat="CUSTOM" username="dmscripts" useOpenSSHConfig="true">
         <option name="customName" value="dev-scan000.us-east-1.internal.deepmacro.net" />
       </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" id="d94c9434-4206-49df-b6b6-0efc6ea0a3ad" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" nameFormat="CUSTOM" username="dmscripts" useOpenSSHConfig="true">
+        <option name="customName" value="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" />
+      </sshConfig>
     </configs>
   </component>
 </application>
