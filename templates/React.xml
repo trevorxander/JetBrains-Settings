@@ -199,4 +199,18 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="useRefCallback" value="const [$ref$, set$setRef$] = useRefCallback(($ref$) =&gt; {&#10;  &#10;});&#10;$END$" description="useRefCallback" toReformat="true" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="ref" alwaysStopAt="true" />
+    <variable name="setRef" expression="capitalize(ref)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="useMounted" value="const isMounted = useMounted()&#10;$END$" description="useMounted" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
