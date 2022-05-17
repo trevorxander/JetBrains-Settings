@@ -1,37 +1,16 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="16.11.1" last-modified="1634256369216" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/16.11.1/bin/node">
-      <version-cache version="16.11.1" last-modified="1634256369216" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/15.3.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.0/bin/node">
-      <version-cache version="14.17.0" last-modified="1620757815000" />
-    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v13.5.0/bin/node">
       <version-cache version="13.5.0" last-modified="1576693615000" />
     </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.10.0/bin/node">
-      <version-cache version="12.10.0" last-modified="1567616506000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.0.0/bin/node">
-      <version-cache version="12.0.0" last-modified="1556027614000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.0.0/bin/node">
-      <version-cache version="10.0.0" last-modified="1524580722000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node">
-      <version-cache version="8.12.0" last-modified="1536605058000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.8.0/bin/node">
-      <version-cache version="8.8.0" last-modified="1508873836000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.0.0/bin/node">
-      <version-cache version="8.0.0" last-modified="1496165247000" />
-    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/13.5.0/bin/node" />
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/13.3.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/13.1.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.10.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.10.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.8.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.0.0/bin/node" />
   </component>
 </application>
