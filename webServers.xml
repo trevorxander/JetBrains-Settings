@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed7a9a19-704f-4b25-9c23-b9013d536304" name="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key">
+        <fileTransfer accessType="SFTP" host="prod-api000.us-west-2.internal.deepmacro.net" port="22" sshConfigId="4bc02a09-0bb1-475d-91ff-f5e99a6829a8" sshConfig="dmscripts@prod-api000.us-west-2.internal.deepmacro.net:22 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
