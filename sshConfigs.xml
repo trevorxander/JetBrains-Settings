@@ -11,6 +11,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" id="d94c9434-4206-49df-b6b6-0efc6ea0a3ad" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" nameFormat="CUSTOM" username="dmscripts" useOpenSSHConfig="true">
         <option name="customName" value="PROD-CONTAINER000.US-EAST-1.INTERNAL.DEEPMACRO.NET" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="prod-matlab000.us-east-1.internal.deepmacro.net" id="d9df573a-2d15-4f84-a5a1-532d3ecded53" port="22" nameFormat="DESCRIPTIVE" username="dmscripts" useOpenSSHConfig="false" />
     </configs>
   </component>
 </application>
